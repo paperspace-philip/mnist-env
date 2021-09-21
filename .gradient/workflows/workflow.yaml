@@ -13,5 +13,5 @@ jobs:
         - bash
         - -c
         - >-
-          env | grep -i PROJECT
+          env | grep -i PAPERSPACE
       image: bash
